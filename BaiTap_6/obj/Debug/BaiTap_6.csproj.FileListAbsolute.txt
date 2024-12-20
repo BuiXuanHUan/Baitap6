@@ -1,0 +1,15 @@
+C:\Users\PC MSI\source\repos\BaiTap_6\BaiTap_6\bin\Debug\BaiTap_6.exe.config
+C:\Users\PC MSI\source\repos\BaiTap_6\BaiTap_6\bin\Debug\BaiTap_6.exe
+C:\Users\PC MSI\source\repos\BaiTap_6\BaiTap_6\bin\Debug\BaiTap_6.pdb
+C:\Users\PC MSI\source\repos\BaiTap_6\BaiTap_6\bin\Debug\EntityFramework.dll
+C:\Users\PC MSI\source\repos\BaiTap_6\BaiTap_6\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\PC MSI\source\repos\BaiTap_6\BaiTap_6\bin\Debug\EntityFramework.xml
+C:\Users\PC MSI\source\repos\BaiTap_6\BaiTap_6\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\PC MSI\source\repos\BaiTap_6\BaiTap_6\obj\Debug\BaiTap_6.csproj.AssemblyReference.cache
+C:\Users\PC MSI\source\repos\BaiTap_6\BaiTap_6\obj\Debug\BaiTap_6.Form1.resources
+C:\Users\PC MSI\source\repos\BaiTap_6\BaiTap_6\obj\Debug\BaiTap_6.Properties.Resources.resources
+C:\Users\PC MSI\source\repos\BaiTap_6\BaiTap_6\obj\Debug\BaiTap_6.csproj.GenerateResource.cache
+C:\Users\PC MSI\source\repos\BaiTap_6\BaiTap_6\obj\Debug\BaiTap_6.csproj.CoreCompileInputs.cache
+C:\Users\PC MSI\source\repos\BaiTap_6\BaiTap_6\obj\Debug\BaiTap_6.csproj.Up2Date
+C:\Users\PC MSI\source\repos\BaiTap_6\BaiTap_6\obj\Debug\BaiTap_6.exe
+C:\Users\PC MSI\source\repos\BaiTap_6\BaiTap_6\obj\Debug\BaiTap_6.pdb
